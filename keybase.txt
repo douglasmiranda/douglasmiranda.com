@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/douglasmiranda
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://douglasmiranda.com
+  * I am douglasmiranda (https://keybase.io/douglasmiranda) on keybase.
+  * I have a public key ASBKT8nuZPyylXNxX-pTLEaqKcYSlkBxmhw1sfDJJXH2ggo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204a4fc9ee64fcb29573715fea532c46aa29c6129640719a1c35b1f0c92571f6820a",
+      "host": "keybase.io",
+      "kid": "01204a4fc9ee64fcb29573715fea532c46aa29c6129640719a1c35b1f0c92571f6820a",
+      "uid": "b6fd00a16f90fb689d7425bbbebd6619",
+      "username": "douglasmiranda"
+    },
+    "merkle_root": {
+      "ctime": 1523742837,
+      "hash": "c149ba8e52d69ed33558f50abc08545be7bda8c41b1e9950629b4b44e5de358d21c3ac11df4a9a17df60cbb93684a139ae5d6fed93516a34a18b00659bca9322",
+      "hash_meta": "32dd72cbc14ec5fae5439eb3536f68b23d00f54e92ed88d1a854469da8dfe8d7",
+      "seqno": 2390727
+    },
+    "service": {
+      "entropy": "xtMuvE/KwVmvGtiop57Ix85H",
+      "hostname": "douglasmiranda.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1523742911,
+  "expire_in": 504576000,
+  "prev": "b11e37518079a506d30b4008b07469af52a89fc25d552cb348e3e7c86105f7c2",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSk/J7mT8spVzcV/qUyxGqinGEpZAcZocNbHwySVx9oIKp3BheWxvYWTESpcCFcQgsR43UYB5pQbTC0AIsHRpr1Kon8JdVSyzSOPnyGEF98LEIHuqBgZPAH/aCoojIcwqI+h8NLcmdIVyrJICyGMMAiehAgHCo3NpZ8RAqci5+Sewl5b+zNQN8CDnPFmZyZOBaU00kesKv4PeomxKT/MppWZ3oCTtzHy4meD/VpgvWJx5SByNTVko9c5lBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILQgYh/OmUeyD95SF6wnFublh67I9fLIjGQ8Dzt1gRZ5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/douglasmiranda
+
+==================================================================
